@@ -100,7 +100,8 @@ nav a {
 }
 
 .right img{
-    width: 100%;
+    width: 80%;
+    height: 50%;
     -webkit-box-reflect:below 1px linear-gradient(transparent,transparent,#0004)
 }
 
